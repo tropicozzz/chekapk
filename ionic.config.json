@@ -1,0 +1,7 @@
+{
+  "name": "chekapk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
